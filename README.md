@@ -1,4 +1,4 @@
-# SOEN 6441 team Project
+# SOEN 6441 team Project in Java/ SpringBoot
 Here, Risk Domination Game is implemented, where players can play turn by turn. Whoever dominates or owns all the territories first, that player wins the game.
 
 Here, the user may use the GUI to play game or there are set of commands by which the game can be played. 
